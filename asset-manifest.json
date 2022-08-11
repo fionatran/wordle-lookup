@@ -1,0 +1,15 @@
+{
+  "main.css": "/wordle-lookup/static/css/main.be88354e.chunk.css",
+  "main.js": "/wordle-lookup/static/js/main.927698cf.chunk.js",
+  "main.js.map": "/wordle-lookup/static/js/main.927698cf.chunk.js.map",
+  "static/js/1.f63fba0a.chunk.js": "/wordle-lookup/static/js/1.f63fba0a.chunk.js",
+  "static/js/1.f63fba0a.chunk.js.map": "/wordle-lookup/static/js/1.f63fba0a.chunk.js.map",
+  "runtime~main.js": "/wordle-lookup/static/js/runtime~main.9869f3ba.js",
+  "runtime~main.js.map": "/wordle-lookup/static/js/runtime~main.9869f3ba.js.map",
+  "static/media/logo.png": "/wordle-lookup/static/media/logo.5db4e24a.png",
+  "static/media/wordle_solutions.txt": "/wordle-lookup/static/media/wordle_solutions.4551632a.txt",
+  "static/css/main.be88354e.chunk.css.map": "/wordle-lookup/static/css/main.be88354e.chunk.css.map",
+  "index.html": "/wordle-lookup/index.html",
+  "precache-manifest.6c217a31836678f977d39f8b6092be62.js": "/wordle-lookup/precache-manifest.6c217a31836678f977d39f8b6092be62.js",
+  "service-worker.js": "/wordle-lookup/service-worker.js"
+}
